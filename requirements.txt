@@ -1,0 +1,10 @@
+pandas
+numpy
+faker
+pyyaml
+pyspark
+delta-spark
+pytest
+great-expectations
+plotly
+streamlit
