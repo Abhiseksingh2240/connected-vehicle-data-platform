@@ -1,0 +1,6 @@
+table_name: vehicles
+source_path: sample_data/vehicles.parquet
+file_format: parquet
+load_type: batch
+primary_key: vehicle_id
+target_table: bronze_vehicles
